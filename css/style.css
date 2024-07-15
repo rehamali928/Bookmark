@@ -1,0 +1,23 @@
+
+div h1{
+    
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+      color: gray;
+    }
+  
+    .formProject button{
+       
+        width: 90px;
+        height: 50px;
+        color: white;
+    
+        border: none;
+    }
+    .formProject  {
+        background-color: #eee;
+    }
+    .outPut{
+        background-color: #eee; !important
+    }
+   
